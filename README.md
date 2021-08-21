@@ -17,7 +17,8 @@
 
 ### Courses and certificates:
 [<img align="left" alt="hillel" width="220px" src="https://lms.ithillel.ua/uploads/certificates/31310615_en.png" />][website]
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br /><br /><br />
 
 
 [website]: https://certificate.ithillel.ua/view/31310615

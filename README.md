@@ -14,11 +14,20 @@
 
 <br /><br />
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.svgporn.com/logos/telegram.svg" />][telegram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />][gmail]
+
+<br />
 
 ### Courses and certificates:
-[<img align="left" alt="hillel" width="220px" src="https://lms.ithillel.ua/uploads/certificates/31310615_en.png" />][website]
+[<img align="left" alt="hillel" width="220px" src="https://lms.ithillel.ua/uploads/certificates/31310615_en.png" />][sert]
 
 <br /><br /><br /><br /><br /><br /><br />
 
 
-[website]: https://certificate.ithillel.ua/view/31310615
+[sert]: https://certificate.ithillel.ua/view/31310615
+[telegram]: https://t.me/Daygra
+[gmail]: mailto:danilkorin33@gmail.com
+
